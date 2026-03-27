@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QpQcIEGpHSk=",
+  "success": true,
+  "projectFilePath": "/workspaces/Praktiska-examination-2/ChatClient/ChatClient.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/socketioclient/3.0.5/socketioclient.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

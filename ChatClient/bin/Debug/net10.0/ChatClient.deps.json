@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ChatClient/1.0.0": {
+        "dependencies": {
+          "SocketIOClient": "3.0.5"
+        },
+        "runtime": {
+          "ChatClient.dll": {}
+        }
+      },
+      "SocketIOClient/3.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/SocketIOClient.dll": {
+            "assemblyVersion": "3.0.5.0",
+            "fileVersion": "3.0.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocketIOClient/3.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T9UeAyh6+NYtnE9wjCutopj1QNgb7Ab2eNRNxAtB/hZKo8XaHDu4YvyxlOocSuoajsA2L8CJT0HGBIGQZSITkg==",
+      "path": "socketioclient/3.0.5",
+      "hashPath": "socketioclient.3.0.5.nupkg.sha512"
+    }
+  }
+}
